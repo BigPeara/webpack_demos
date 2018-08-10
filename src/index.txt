@@ -1,0 +1,4 @@
+webpack 中需要自己手动的创建webpack.config.js文件 需要手动的修改package.json文件 
+
+
+为了防止项目的文件和服务器的更新保持一致需要安装 html-webpack-pulgin 插件
